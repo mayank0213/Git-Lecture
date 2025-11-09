@@ -1,3 +1,5 @@
 This is fixes
 
 one more bug diected and <i class="fas fa-cloud-hail-mixed    "></i>
+
+another firx for purple mode
